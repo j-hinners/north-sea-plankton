@@ -1,4 +1,4 @@
-```markdown
+
 # North Sea Plankton Analysis
 
 This project explores the relationship between plankton community composition and key environmental variables in the North Sea using exploratory time series analysis, principal component analysis (PCA), and correlation analysis.
@@ -31,6 +31,7 @@ The following techniques were applied:
 
 ## Repository Structure
 
+ ```bash
 north-sea-plankton/
 ├── North_Sea_Plankton_Analysis.ipynb # Jupyter Notebook with full analysis
 ├── North_Sea_Plankton_Analysis.html # Exported HTML version (preview)
@@ -38,7 +39,7 @@ north-sea-plankton/
 ├── README.md # Project documentation
 └── data/
       └── phyto_data.csv # Dummy dataset
-
+ ```
 ---
 
 ## Key Findings (Summary)
@@ -55,7 +56,6 @@ north-sea-plankton/
 
 To reproduce the analysis:
 
-```
 
 1. Clone the repository:
 
