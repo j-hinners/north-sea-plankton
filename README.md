@@ -37,8 +37,7 @@ north-sea-plankton/
 ├── North_Sea_Plankton_Analysis.html # Exported HTML version (preview)
 ├── requirements.txt # Dependencies
 ├── README.md # Project documentation
-└── data/
-      └── phyto_data.csv # Dummy dataset
+└── NorthSeaPlanktonData.csv # Dummy dataset
  ```
 ---
 
