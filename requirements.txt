@@ -1,0 +1,7 @@
+# Requires Python 3.8 or higher
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
